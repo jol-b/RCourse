@@ -1,0 +1,2 @@
+# RCourse
+SSE R minicourse
